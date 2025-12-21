@@ -1,14 +1,3 @@
-It is completely okay if Jarvis isn't speaking live on your laptop. For the video, **overlaying the audio in your video editor is the professional move.** It ensures the sound is crisp, clear, and perfectly timed, which judges actually prefer over a recording of a laptop speaker.
-
-Since you asked for the README, here is a **Hackathon-Winning README Template** tailored for "Protocol Zero."
-
-### **How to use this:**
-
-1. Create a file named `README.md` in your project folder.
-2. Paste the text below.
-3. (Optional) Add screenshots of your Matrix Dashboard or Discord alert where indicated.
-
----
 
 # 🛡️ Protocol Zero: The Autonomous DevOps War Room
 
