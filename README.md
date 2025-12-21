@@ -20,7 +20,8 @@ Protocol Zero is an autonomous, multi-agent AI system designed to detect, diagno
 
 ## 🎥 Demo
 
-**[▶️ Watch the 3-Minute Demo on YouTube](https://www.google.com/search?q=YOUR_YOUTUBE_LINK_HERE)**
+**[▶️ Watch the 4-Minute Demo on YouTube]
+
 
 ---
 
@@ -136,10 +137,12 @@ Open a new terminal and run:
 
 ### **1. The Matrix Dashboard (Live War Room)**
 
+![WhatsApp Image 2025-12-21 at 17 14 48_94021190](https://github.com/user-attachments/assets/116ec749-e57f-4063-ac09-8a247c4eeb8d)
 
 ### **2. Discord Notification**
 
-*(Place a screenshot of the Discord alert here)*
+
+![WhatsApp Image 2025-12-21 at 17 14 45_5338ed5e](https://github.com/user-attachments/assets/b76cefc4-c77f-476e-a4d5-f131c68db931)
 
 ---
 
