@@ -9,7 +9,7 @@ Protocol Zero is an autonomous, multi-agent AI system designed to detect, diagno
 
 ## 🎥 Demo
 
-**[▶️ Watch the 4-Minute Demo on YouTube]
+https://www.youtube.com/watch?v=iUkicX9uYts
 
 
 ---
